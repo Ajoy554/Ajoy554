@@ -4,6 +4,7 @@ I’m a passionate **Front-End Web Developer** who loves building error-free web
 - 🔥 I’m currently focusing on learning **MongoDB** and improving my backend skills.
 - 🌱 I’m always open to exploring new frameworks and libraries.
 - 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Twitter](https://twitter.com/yourhandle)
+- 💬 Ask me about **Web Development**, **React**, **JavaScript**, and **MongoDB**.
 
 ---
 
@@ -30,6 +31,13 @@ A personal portfolio website to showcase my skills, projects, and achievements. 
 - **Features**: Dynamic content, smooth scrolling, responsive design
 - [View Demo](https://live-demo-link)
 
+### [Blog App](https://github.com/your-repo/blog-app)
+A blog platform where users can create, edit, and comment on posts. Built with **React** and **Node.js**.
+
+- **Tech Stack**: React, Node.js, Express, MongoDB
+- **Features**: User authentication, CRUD functionality for posts, comment section
+- [View Demo](https://live-demo-link)
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -37,7 +45,7 @@ Here are the technologies I am proficient in:
 
 - **Frontend**: React, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
 - **Backend**: Node.js, Express, MongoDB
-- **Tools**: Git, GitHub, VS Code, Postman, Figma, Docker
+- **Tools**: Git, GitHub, VS Code, Postman, Figma, Docker, Nginx
 
 ### Skill Badges:
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
@@ -72,8 +80,16 @@ Here are the technologies I am proficient in:
 - **[How to Master React in 30 Days](https://your-blog-link.com)**
 - **[A Guide to Responsive Design with Tailwind CSS](https://your-blog-link.com)**
 - **[Building RESTful APIs with Node.js](https://your-blog-link.com)**
+- **[Understanding Asynchronous JavaScript](https://your-blog-link.com)**
 
 ---
 
 ## 🐍 Contribution Activity:
 ![GitHub Snake](https://raw.githubusercontent.com/Anondoraydev/Anondoraydev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Goals for the Future:
+- 🚀 Learn advanced **React Native** for building mobile apps.
+- 🌍 Contribute to more **Open Source** projects and communities.
+- 🎓 Write technical blogs and share more knowledge.
