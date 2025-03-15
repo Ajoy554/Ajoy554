@@ -49,7 +49,7 @@ I’m a passionate **Front-End Web Developer** who loves building error-free web
 ---
 
 ## 📍 My Location
-![Location Map](https://maps.googleapis.com/maps/api/staticmap?center=YourLocation&zoom=14&size=400x400&markers=color:red%7CYourLocation)
+![Location Map](https://maps.googleapis.com/maps/api/staticmap?center=37.7749,-122.4194&zoom=14&size=400x400&markers=color:red%7C37.7749,-122.4194)
 
 ---
 
