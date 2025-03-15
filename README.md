@@ -1,47 +1,79 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+## 👨‍💻 About Me
+I’m a passionate **Front-End Web Developer** who loves building error-free websites and striving for 100% client satisfaction. I am always eager to learn new technologies and share my knowledge with others. Problem-solving is my passion, and I love approaching real-world challenges with innovative solutions.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajoy+Sarkar+(Anondo);+I+am+Web+Developer" />
-</h1>  
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I love my works Always ....
+- 🔥 I’m currently focusing on learning **MongoDB** and improving my backend skills.
+- 🌱 I’m always open to exploring new frameworks and libraries.
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Twitter](https://twitter.com/yourhandle)
 
-Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc...
- 
-- 🌱 I’m currently learning MongoDb 
-- 💬 Ask me about Web Developement 
- 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> </p>
+## 🚀 Projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=8&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+### [Awesome Website](https://github.com/your-repo/project1)
+A modern, responsive website built with **React** and **Tailwind CSS**, designed to give users a seamless experience.
 
-<p align="left"> <a href="https://twitter.com/anondo553" target="blank"><img src="https://img.shields.io/twitter/follow/anondo553?logo=twitter&style=for-the-badge" alt="anondo553" /></a> </p>  
+- **Tech Stack**: React, Tailwind CSS, Firebase
+- **Features**: Real-time user authentication, data storage, dynamic UI
+- [View Demo](https://live-demo-link)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Anondoraydev)  
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anondo553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anondo553" height="30" width="40" /></a>
-<a href="https://fb.com/anondo554.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anondo554.0" height="30" width="40" /></a>
-<a href="https://instagram.com/anondoray553/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anondoray553/" height="30" width="40" /></a>
-</p>
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Anondoraydev)  
+### [E-Commerce App](https://github.com/your-repo/project2)
+An e-commerce app with product filtering, shopping cart, and checkout functionality built with **React** and **Node.js**.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- **Tech Stack**: React, Node.js, Express, MongoDB
+- **Features**: Product management, user authentication, order history
+- [View Demo](https://live-demo-link)
 
- ![](https://raw.githubusercontent.com/Anondoraydev/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
- 
+### [Personal Portfolio](https://github.com/your-repo/portfolio)
+A personal portfolio website to showcase my skills, projects, and achievements. Built using **React** and **Tailwind CSS**.
 
+- **Tech Stack**: React, Tailwind CSS, JavaScript
+- **Features**: Dynamic content, smooth scrolling, responsive design
+- [View Demo](https://live-demo-link)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+## 🛠️ Technologies & Tools
+Here are the technologies I am proficient in:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anondoraydev&show_icons=true&locale=en&layout=compact" alt="anondoraydev" /></p>
+- **Frontend**: React, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
+- **Backend**: Node.js, Express, MongoDB
+- **Tools**: Git, GitHub, VS Code, Postman, Figma, Docker
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anondoraydev&show_icons=true&locale=en" alt="anondoraydev" /></p> 
+### Skill Badges:
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
- ![snake gif](https://github.com/Anondoraydev/Anondoraydev/blob/output/github-snake-dark.svg)
- 
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anondoraydev&show_icons=true&hide_title=true&count_private=true&theme=merko)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoraydev&layout=compact&theme=merko)
+
+---
+
+## 🧑‍💻 Connect With Me:
+[![Twitter](https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=for-the-badge)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-profile/)
+[![GitHub](https://img.shields.io/github/followers/Anondoraydev?logo=github&style=for-the-badge)](https://github.com/Anondoraydev)
+
+---
+
+## 🎉 Fun Contributions:
+![snake gif](https://github.com/Anondoraydev/Anondoraydev/blob/output/github-snake-dark.svg)
+
+---
+
+## 🧑‍💻 Latest Blog Posts:
+- **[How to Master React in 30 Days](https://your-blog-link.com)**
+- **[A Guide to Responsive Design with Tailwind CSS](https://your-blog-link.com)**
+- **[Building RESTful APIs with Node.js](https://your-blog-link.com)**
+
+---
+
+## 🐍 Contribution Activity:
+![GitHub Snake](https://raw.githubusercontent.com/Anondoraydev/Anondoraydev/blob/output/github-contribution-grid-snake.svg)
